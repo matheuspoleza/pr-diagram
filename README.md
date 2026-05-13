@@ -1,6 +1,4 @@
-# PR Lens
-
-A take-home for Scrunch. Brief lives in [`docs/assignment.md`](./docs/assignment.md): build something that helps a non-engineer understand a GitHub PR in under 10 seconds.
+# PR Diagram
 
 This README is about *how I got there* — the discovery process before any code. The product reasoning is in [`docs/prd.md`](./docs/prd.md).
 
